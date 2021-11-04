@@ -29,6 +29,8 @@ best_r_p.mat - Cell proliferation rates contributed by ERK phosphorylation stimu
 best_r_s_V.mat - Cell proliferation rates contributed by Akt phosphorylation stimulated by VEGF for the best fits 
 best_r_s.mat - Cell proliferation rates contributed by Akt phosphorylation stimulated by FGF for the best fits 
 
+
+
 2. Cell sprouting model 
 Codes can be found under ‘SproutingModel’ folder.
 Cellresponses.m - Calculate TL, NS, and AL formed from 500-cell spheroids stimulated by VEGF 
